@@ -1,0 +1,42 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+.navbar-dark {
+    
+    background-color:teal !important;
+}    
+
+.jumbotron {
+    background-image: url(/geometric-background-1514584882En0.jpg);
+    border-radius: 0 !important;
+    height: rem;
+
+}
+h1 {
+    color: white;
+    padding-top: 50px ;
+}
+
+.text-muted {
+    color: grey !important;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+small {
+    color: grey;
+}
+
+.profile {
+    padding-left: 11rem;
+}
+
+.badge {
+    background-color:green !important;
+
+}
